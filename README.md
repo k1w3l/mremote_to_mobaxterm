@@ -1,4 +1,4 @@
-# mremote_to_mobaxterm
+# Conversosr: Mremote >> MobaXterm
 
 Script para converter conexões Mremote para conexões MobaXterm.
 
